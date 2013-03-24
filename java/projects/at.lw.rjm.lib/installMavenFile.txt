@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=log4j-api-2.0.jar -DgroupId=org.apache -DartifactId=log4j-api -Dversion=2.0 -Dpackaging=jar -DlocalRepositoryPath=lib -DcreateChecksum=true
